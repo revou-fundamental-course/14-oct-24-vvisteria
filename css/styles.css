@@ -1,0 +1,50 @@
+/* ini css */
+.photo-banner{
+    border: 1px solid;
+    height: 350px;
+    background-image: url(https://images3.alphacoders.com/136/thumb-1920-1364268.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.profile-article {
+    height: 300px;
+}
+
+.message-container {
+    display: flex;
+}
+
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-icon{
+    height: 50px;
+    width: 50px;
+    background-image: url(https://play-lh.googleusercontent.com/R3uPV6IlI_xkiqw98gSo7RFJ4UL4i7z-su3AYcCNSU-valWSVHoewAG-fkpp6BVMB2oy);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20%;
+}
+
+nav{
+    display: flex;
+
+}
+
+nav>a {
+    border: 1px solid;
+    background-color: wheat;
+    font-family: helvetica;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+footer>div {
+    text-align: center;
+    font-family: calibri;
+}
